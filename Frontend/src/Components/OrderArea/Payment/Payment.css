@@ -1,0 +1,28 @@
+.Payment {
+    display: flex;
+}
+
+.ProductsFromCartToBuy {
+	width: 50%;
+    border: 1px solid black;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.ProductsFromCartToBuy table{
+	width: 90%;
+}
+
+.UserDetails {
+    width: 50%;
+    border: 1px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+}
+
+.UserDetails form {
+    width: 100%;
+}
+
+

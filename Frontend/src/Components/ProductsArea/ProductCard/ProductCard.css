@@ -1,0 +1,8 @@
+.Card .AddButton {
+    width: 50px;
+    margin-left: 10px;
+}
+.Card .UpdateButton {
+    width: 60px;
+    margin-left: 10px;
+}

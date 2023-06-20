@@ -1,0 +1,17 @@
+.CategoryDiv {
+    margin-left: 10px;
+    padding-left: 5px;
+    padding-bottom: -50px;
+    background-color: #FAEBD7;
+    width: 70px;
+    /* background-color: blue; */
+}
+
+.CategoryLabel {
+    font-size: medium;
+    color:#666666;
+}
+
+.EditProduct .MuiButton {
+    width: 50%;
+}

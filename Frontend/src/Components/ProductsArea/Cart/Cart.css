@@ -1,0 +1,34 @@
+.Cart {
+	min-width: 300px;
+    /* max-width: 450px; */
+    min-height: 200px;
+    max-height: 450px;
+    overflow-y: auto;
+    margin-top: 15px;
+}
+
+.Cart::-webkit-scrollbar {
+    width: 15px;
+  }
+  
+.Cart::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey; 
+    border-radius: 15px;
+    height: 80%;
+  }
+   
+  /* Handle */
+.Cart::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    border: 2px solid;
+  }
+  
+ 
+.Cart::-webkit-scrollbar-thumb:hover {
+    background:black; 
+  }
+
+.Cart p {
+    font-size: large;
+    font-weight: bold;
+}

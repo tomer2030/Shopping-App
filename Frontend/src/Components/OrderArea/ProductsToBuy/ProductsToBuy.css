@@ -1,0 +1,7 @@
+.ProductsToBuy > table {
+	width: 100%;
+}
+
+.ProductsToBuy td {
+    border: 1px solid black;
+}

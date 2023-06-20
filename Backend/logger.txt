@@ -1,0 +1,2602 @@
+7.2.2023, 9:36:48 	 Username already taken
+----------------------------
+7.2.2023, 9:37:35 	 Username already taken
+----------------------------
+7.2.2023, 9:39:26 	 Username already taken
+----------------------------
+7.2.2023, 10:18:50 	 Unexpected number in JSON at position 25
+----------------------------
+7.2.2023, 10:18:54 	 Unexpected number in JSON at position 25
+----------------------------
+7.2.2023, 10:19:27 	 Unexpected number in JSON at position 25
+----------------------------
+7.2.2023, 10:20:00 	 Unexpected number in JSON at position 25
+----------------------------
+7.2.2023, 10:25:37 	 Route /api/auth/register not exist
+----------------------------
+7.2.2023, 10:27:28 	 "password" must be a string
+----------------------------
+7.2.2023, 19:57:16 	 Unexpected number in JSON at position 218
+----------------------------
+7.2.2023, 20:03:02 	 E11000 duplicate key error collection: shopping-app.users index: _id_ dup key: { _id: 207746116 }
+----------------------------
+7.2.2023, 20:19:46 	 Unexpected token } in JSON at position 206
+----------------------------
+7.2.2023, 20:20:02 	 UserModel validation failed: roleId: Missing role
+----------------------------
+8.2.2023, 21:02:12 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'field list'
+----------------------------
+8.2.2023, 21:02:22 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'field list'
+----------------------------
+8.2.2023, 21:02:30 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'field list'
+----------------------------
+8.2.2023, 21:02:56 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'field list'
+----------------------------
+8.2.2023, 21:03:12 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'field list'
+----------------------------
+8.2.2023, 21:03:39 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'field list'
+----------------------------
+8.2.2023, 21:03:42 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'field list'
+----------------------------
+8.2.2023, 21:05:23 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'field list'
+----------------------------
+8.2.2023, 21:06:40 	 ER_BAD_FIELD_ERROR: Unknown column 'id' in 'field list'
+----------------------------
+8.2.2023, 21:08:37 	 ER_BAD_FIELD_ERROR: Unknown column 'email' in 'field list'
+----------------------------
+8.2.2023, 21:09:43 	 ER_BAD_FIELD_ERROR: Unknown column 'email' in 'where clause'
+----------------------------
+8.2.2023, 21:12:30 	 ER_BAD_FIELD_ERROR: Unknown column 'email' in 'where clause'
+----------------------------
+8.2.2023, 21:13:56 	 ER_BAD_FIELD_ERROR: Unknown column 'email' in 'where clause'
+----------------------------
+8.2.2023, 21:14:31 	 ER_BAD_FIELD_ERROR: Unknown column 'email' in 'where clause'
+----------------------------
+8.2.2023, 21:14:55 	 ER_BAD_FIELD_ERROR: Unknown column 'address' in 'where clause'
+----------------------------
+8.2.2023, 21:15:18 	 ER_BAD_FIELD_ERROR: Unknown column 'users.email' in 'where clause'
+----------------------------
+8.2.2023, 21:15:50 	 ER_BAD_FIELD_ERROR: Unknown column 'email' in 'where clause'
+----------------------------
+8.2.2023, 21:16:11 	 ER_BAD_FIELD_ERROR: Unknown column 'email' in 'where clause'
+----------------------------
+8.2.2023, 21:16:12 	 ER_BAD_FIELD_ERROR: Unknown column 'email' in 'where clause'
+----------------------------
+8.2.2023, 21:19:07 	 ER_BAD_FIELD_ERROR: Unknown column 'email' in 'where clause'
+----------------------------
+8.2.2023, 21:27:11 	 ER_BAD_FIELD_ERROR: Unknown column 'email' in 'where clause'
+----------------------------
+8.2.2023, 21:27:28 	 ER_BAD_FIELD_ERROR: Unknown column 'email' in 'where clause'
+----------------------------
+8.2.2023, 21:32:17 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= 207746116 OR userId = 'tomerviner@gmail.com'' at line 2
+----------------------------
+8.2.2023, 21:34:28 	 "password" must be a string
+----------------------------
+8.2.2023, 21:34:37 	 "street" is not allowed
+----------------------------
+8.2.2023, 21:35:01 	 "street" is not allowed
+----------------------------
+8.2.2023, 21:35:58 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?, ?, ?, ?, ?, ?, ?)' at line 2
+----------------------------
+8.2.2023, 21:39:05 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?)' at line 2
+----------------------------
+8.2.2023, 21:39:39 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+8.2.2023, 21:40:52 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+8.2.2023, 21:41:30 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''users'
+        VALUES('2075246116', 'Tomer', 'Viner', 'tomerviner@gmail.com'...' at line 1
+----------------------------
+8.2.2023, 21:42:46 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+8.2.2023, 21:45:12 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''users'
+        VALUES(
+            '2075246116', 'Tomer', 'Viner', 'tomervin...' at line 1
+----------------------------
+8.2.2023, 21:48:52 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+8.2.2023, 21:49:04 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+8.2.2023, 21:49:05 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+8.2.2023, 21:50:31 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+8.2.2023, 21:56:43 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?
+        )' at line 3
+----------------------------
+8.2.2023, 21:56:57 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+8.2.2023, 21:57:15 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+8.2.2023, 21:57:23 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?
+        )' at line 3
+----------------------------
+8.2.2023, 21:57:35 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+8.2.2023, 22:02:31 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+8.2.2023, 22:03:44 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+8.2.2023, 22:05:35 	 ER_BAD_FIELD_ERROR: Unknown column 'email' in 'field list'
+----------------------------
+8.2.2023, 22:05:57 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''email', password, city, street, roleId)
+        VALUES(
+            20752461...' at line 1
+----------------------------
+8.2.2023, 22:06:10 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '"email", password, city, street, roleId)
+        VALUES(
+            20752461...' at line 1
+----------------------------
+8.2.2023, 22:06:44 	 ER_BAD_FIELD_ERROR: Unknown column 'city' in 'field list'
+----------------------------
+8.2.2023, 22:07:24 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''city', street, roleId)
+        VALUES(
+            2075246116, 'Tomer', 'Vin...' at line 1
+----------------------------
+8.2.2023, 22:08:19 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?)' at line 2
+----------------------------
+8.2.2023, 22:09:40 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+8.2.2023, 22:09:41 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+8.2.2023, 22:09:42 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+8.2.2023, 22:09:43 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+8.2.2023, 22:12:14 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+8.2.2023, 22:17:34 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''users'
+        VALUES(2075246116, 'Tomer', 'Viner', 'tomerviner@gmail.com', ...' at line 1
+----------------------------
+8.2.2023, 22:17:46 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+8.2.2023, 22:19:09 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+8.2.2023, 22:20:56 	 ER_BAD_FIELD_ERROR: Unknown column 'email' in 'field list'
+----------------------------
+8.2.2023, 22:21:15 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''email', password, city, address, roleid)
+        VALUES(222, "asd", "dd", "d...' at line 1
+----------------------------
+8.2.2023, 22:22:22 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+8.2.2023, 22:23:02 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+8.2.2023, 22:23:08 	 "email" is required
+----------------------------
+8.2.2023, 22:23:21 	 Unexpected token } in JSON at position 179
+----------------------------
+8.2.2023, 22:23:28 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+8.2.2023, 22:26:17 	 ER_BAD_FIELD_ERROR: Unknown column 'email' in 'field list'
+----------------------------
+8.2.2023, 22:26:43 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''email', password, city, street, roleid)
+        VALUES(222, "asd", "dd", "dd...' at line 1
+----------------------------
+8.2.2023, 22:27:04 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+8.2.2023, 22:28:04 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+8.2.2023, 22:30:55 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+8.2.2023, 22:36:19 	 Unexpected string in JSON at position 31
+----------------------------
+8.2.2023, 22:36:31 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+8.2.2023, 22:38:03 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+8.2.2023, 22:38:04 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+8.2.2023, 22:39:19 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+8.2.2023, 22:40:26 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+11.2.2023, 11:00:02 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?, ?, ?, ?, ?, ?, ?, ?)' at line 2
+----------------------------
+11.2.2023, 11:00:44 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@gmail.com,8bbb9f3f45777ed44a85514e8837b90b047d8c49fd4ed7683e41e495a7ebdc4899...' at line 2
+----------------------------
+11.2.2023, 11:02:11 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@gmail.com, 8bbb9f3f45777ed44a85514e8837b90b047d8c49fd4ed7683e41e495a7ebdc489...' at line 2
+----------------------------
+11.2.2023, 11:03:14 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+11.2.2023, 11:05:26 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+11.2.2023, 11:06:44 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+11.2.2023, 11:06:53 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?)' at line 2
+----------------------------
+11.2.2023, 11:07:03 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+11.2.2023, 11:15:05 	 ER_BAD_DB_ERROR: Unknown database 'vacations'
+----------------------------
+23.2.2023, 14:34:00 	 Route /api/products not exist
+----------------------------
+23.2.2023, 14:34:27 	 Route /api/products not exist
+----------------------------
+23.2.2023, 14:34:53 	 Route /api/products not exist
+----------------------------
+23.2.2023, 14:35:12 	 Route /api/products not exist
+----------------------------
+23.2.2023, 18:43:35 	 id 65 not exist
+----------------------------
+23.2.2023, 18:43:41 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+23.2.2023, 18:45:41 	 Route /api/categories not exist
+----------------------------
+28.2.2023, 18:19:16 	 ER_BAD_NULL_ERROR: Column 'cartStartDate' cannot be null
+----------------------------
+28.2.2023, 18:19:55 	 ER_BAD_NULL_ERROR: Column 'cartStartDate' cannot be null
+----------------------------
+28.2.2023, 18:20:33 	 ER_BAD_NULL_ERROR: Column 'cartStartDate' cannot be null
+----------------------------
+28.2.2023, 21:28:01 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+28.2.2023, 21:28:45 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1.3.2023, 17:35:37 	 Route /api/products/cart/all-products/12 not exist
+----------------------------
+1.3.2023, 17:36:07 	 Route /api/products/cart/all-products/12 not exist
+----------------------------
+1.3.2023, 17:36:46 	 Route /api/products/cart/all-products/12 not exist
+----------------------------
+1.3.2023, 21:56:33 	 Route /api/products/product-to-cart/3 not exist
+----------------------------
+1.3.2023, 22:00:20 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT * 
+        FROM productCart 
+        WHERE productCartId = 3' at line 4
+----------------------------
+1.3.2023, 22:01:20 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT * 
+        FROM productCart 
+        WHERE productCartId = 3' at line 4
+----------------------------
+1.3.2023, 22:01:57 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT * 
+        FROM productCart 
+        WHERE productCartId = 3' at line 4
+----------------------------
+1.3.2023, 22:02:14 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT * 
+        FROM productCart 
+        WHERE productCartId = 3' at line 4
+----------------------------
+1.3.2023, 22:26:47 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1.3.2023, 22:28:10 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1.3.2023, 22:30:06 	 there is some problem with updated
+----------------------------
+1.3.2023, 22:34:48 	 there is some problem with updated
+----------------------------
+1.3.2023, 22:37:04 	 Unexpected token a in JSON at position 25
+----------------------------
+2.3.2023, 13:53:33 	 Unexpected token a in JSON at position 25
+----------------------------
+2.3.2023, 13:54:02 	 Unexpected token a in JSON at position 25
+----------------------------
+2.3.2023, 13:55:35 	 Unexpected token a in JSON at position 25
+----------------------------
+2.3.2023, 13:55:57 	 Unexpected token a in JSON at position 25
+----------------------------
+2.3.2023, 13:59:24 	 Unexpected token a in JSON at position 25
+----------------------------
+2.3.2023, 13:59:28 	 Unexpected token a in JSON at position 25
+----------------------------
+2.3.2023, 13:59:58 	 Route /api/products not exist
+----------------------------
+2.3.2023, 14:00:44 	 Route /api/products not exist
+----------------------------
+2.3.2023, 14:01:03 	 Route /api/products not exist
+----------------------------
+2.3.2023, 14:03:04 	 Route /api/products not exist
+----------------------------
+2.3.2023, 14:05:03 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(
+            productName = 'falafel',
+            categoryId = 2,
+          ...' at line 2
+----------------------------
+2.3.2023, 14:06:09 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(
+            productName = 'falafel',
+            categoryId = 2,
+          ...' at line 2
+----------------------------
+2.3.2023, 14:10:44 	 "price" must be greater than or equal to 1
+----------------------------
+2.3.2023, 14:11:24 	 "price" must be a positive number
+----------------------------
+2.3.2023, 14:11:38 	 "price" must be a positive number
+----------------------------
+2.3.2023, 14:11:45 	 id 17 not exist
+----------------------------
+2.3.2023, 14:12:03 	 "price" must be a positive number
+----------------------------
+2.3.2023, 14:12:37 	 id 22 not exist
+----------------------------
+2.3.2023, 14:20:22 	 "userId" must be a number
+----------------------------
+2.3.2023, 14:20:40 	 "orderDate" is required
+----------------------------
+2.3.2023, 14:21:06 	 "deliveryDate" must be a valid date
+----------------------------
+2.3.2023, 14:22:04 	 "deliveryDate" date references "ref:orderDate" which must have a valid date format
+----------------------------
+2.3.2023, 14:23:11 	 "deliveryDate" date references "ref:orderDate" which must have a valid date format
+----------------------------
+2.3.2023, 14:23:25 	 "deliveryDate" date references "ref:orderDate" which must have a valid date format
+----------------------------
+2.3.2023, 14:25:14 	 "orderDate" is required
+----------------------------
+2.3.2023, 14:26:00 	 "orderDate" is required
+----------------------------
+2.3.2023, 14:26:49 	 "orderDate" is required
+----------------------------
+2.3.2023, 14:27:39 	 there is some problem with removing cart
+----------------------------
+2.3.2023, 14:53:23 	 "image" is not allowed
+----------------------------
+2.3.2023, 14:56:02 	 "image" is not allowed
+----------------------------
+2.3.2023, 14:57:02 	 "image" is not allowed
+----------------------------
+2.3.2023, 14:59:08 	 EISDIR: illegal operation on a directory, open 'C:\Users\tomer\OneDrive\שולחן העבודה\JB\02 - Projects\Shopping App\Fullstack Shopping\Backend\src\1-assets\images'
+----------------------------
+2.3.2023, 15:00:26 	 EISDIR: illegal operation on a directory, open 'C:\Users\tomer\OneDrive\שולחן העבודה\JB\02 - Projects\Shopping App\Fullstack Shopping\Backend\src\1-assets\images'
+----------------------------
+2.3.2023, 15:12:14 	 EPERM: operation not permitted, unlink './src/1-assets/images/'
+----------------------------
+2.3.2023, 15:13:01 	 EPERM: operation not permitted, unlink './src/1-assets/images/'
+----------------------------
+2.3.2023, 15:26:24 	 ER_BAD_NULL_ERROR: Column 'imageName' cannot be null
+----------------------------
+2.3.2023, 15:27:12 	 ER_BAD_NULL_ERROR: Column 'imageName' cannot be null
+----------------------------
+2.3.2023, 15:28:08 	 ER_BAD_NULL_ERROR: Column 'imageName' cannot be null
+----------------------------
+2.3.2023, 15:28:52 	 ER_BAD_NULL_ERROR: Column 'imageName' cannot be null
+----------------------------
+2.3.2023, 15:29:55 	 EISDIR: illegal operation on a directory, open 'C:\Users\tomer\OneDrive\שולחן העבודה\JB\02 - Projects\Shopping App\Fullstack Shopping\Backend\src\1-assets\images'
+----------------------------
+19.3.2023, 18:04:30 	 Invalid token
+----------------------------
+19.3.2023, 18:05:00 	 Route /api/products/cart/12345623 not exist
+----------------------------
+19.3.2023, 18:19:47 	 Cannot read properties of undefined (reading 'cartId')
+----------------------------
+19.3.2023, 18:42:03 	 Invalid token
+----------------------------
+19.3.2023, 18:42:03 	 Invalid token
+----------------------------
+19.3.2023, 18:42:07 	 Invalid token
+----------------------------
+19.3.2023, 18:42:07 	 Invalid token
+----------------------------
+19.3.2023, 18:43:49 	 Invalid token
+----------------------------
+19.3.2023, 18:43:49 	 Invalid token
+----------------------------
+20.3.2023, 16:58:56 	 Route /api/orders/ not exist
+----------------------------
+20.3.2023, 16:59:03 	 Route /api/orders/ not exist
+----------------------------
+20.3.2023, 16:59:03 	 Route /api/orders/ not exist
+----------------------------
+20.3.2023, 16:59:18 	 Route /api/orders/ not exist
+----------------------------
+20.3.2023, 16:59:30 	 Route /api/orders/ not exist
+----------------------------
+20.3.2023, 16:59:57 	 Route /api/orders/ not exist
+----------------------------
+20.3.2023, 17:00:08 	 Route /api/orders/ not exist
+----------------------------
+20.3.2023, 17:00:13 	 Route /api/orders/ not exist
+----------------------------
+20.3.2023, 17:00:13 	 Route /api/orders/ not exist
+----------------------------
+20.3.2023, 17:00:37 	 Route /api/orders/ not exist
+----------------------------
+20.3.2023, 17:01:20 	 Route /api/orders/ not exist
+----------------------------
+20.3.2023, 17:02:34 	 Route /api/orders/ not exist
+----------------------------
+20.3.2023, 17:02:35 	 Route /api/orders/ not exist
+----------------------------
+20.3.2023, 17:02:37 	 Route /api/orders/ not exist
+----------------------------
+20.3.2023, 17:02:38 	 Route /api/orders/ not exist
+----------------------------
+20.3.2023, 17:02:38 	 Route /api/orders/ not exist
+----------------------------
+20.3.2023, 17:03:13 	 Route /api/orders/ not exist
+----------------------------
+20.3.2023, 17:05:14 	 Route /api/orders/ not exist
+----------------------------
+20.3.2023, 17:05:15 	 Route /api/orders/ not exist
+----------------------------
+20.3.2023, 17:05:15 	 Route /api/orders/ not exist
+----------------------------
+20.3.2023, 17:05:15 	 Route /api/orders/ not exist
+----------------------------
+20.3.2023, 17:05:29 	 Route /api/orders/ not exist
+----------------------------
+20.3.2023, 17:05:29 	 Route /api/orders/ not exist
+----------------------------
+20.3.2023, 21:54:58 	 "firstName" is required
+----------------------------
+20.3.2023, 21:55:05 	 "firstName" is required
+----------------------------
+20.3.2023, 21:59:57 	 "firstName" is required
+----------------------------
+20.3.2023, 22:01:08 	 "firstName" is required
+----------------------------
+20.3.2023, 22:01:53 	 "firstName" is required
+----------------------------
+20.3.2023, 22:02:59 	 Invalid token
+----------------------------
+22.3.2023, 15:32:36 	 Invalid token
+----------------------------
+22.3.2023, 15:33:34 	 Invalid token
+----------------------------
+22.3.2023, 15:33:45 	 Invalid token
+----------------------------
+22.3.2023, 15:35:16 	 Invalid token
+----------------------------
+22.3.2023, 15:35:19 	 Invalid token
+----------------------------
+22.3.2023, 15:35:34 	 Invalid token
+----------------------------
+22.3.2023, 15:35:41 	 Invalid token
+----------------------------
+26.3.2023, 16:38:23 	 Incorrect username or password
+----------------------------
+26.3.2023, 16:38:31 	 Incorrect username or password
+----------------------------
+26.3.2023, 16:48:25 	 "firstName" is not allowed
+----------------------------
+26.3.2023, 16:48:48 	 "firstName" is not allowed
+----------------------------
+26.3.2023, 16:50:27 	 "firstName" is not allowed
+----------------------------
+26.3.2023, 16:51:53 	 "firstName" is not allowed
+----------------------------
+26.3.2023, 16:54:17 	 "firstName" is not allowed
+----------------------------
+26.3.2023, 16:56:27 	 "firstName" is not allowed
+----------------------------
+26.3.2023, 16:57:13 	 "firstName" is not allowed
+----------------------------
+26.3.2023, 16:57:27 	 "firstName" is not allowed
+----------------------------
+26.3.2023, 16:57:41 	 "firstName" is not allowed
+----------------------------
+26.3.2023, 16:58:40 	 "lastName" is not allowed
+----------------------------
+26.3.2023, 16:59:22 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`shoppingcart`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`roleId`) REFERENCES `roles` (`roleId`))
+----------------------------
+26.3.2023, 17:02:08 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`shoppingcart`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`roleId`) REFERENCES `roles` (`roleId`))
+----------------------------
+26.3.2023, 17:09:21 	 Incorrect username or password
+----------------------------
+26.3.2023, 17:17:06 	 Invalid token
+----------------------------
+28.3.2023, 14:49:42 	 Invalid token
+----------------------------
+28.3.2023, 14:49:42 	 connect ECONNREFUSED 127.0.0.1:3306
+----------------------------
+28.3.2023, 14:50:33 	 connect ECONNREFUSED 127.0.0.1:3306
+----------------------------
+28.3.2023, 14:50:51 	 Invalid token
+----------------------------
+28.3.2023, 14:53:00 	 Invalid token
+----------------------------
+28.3.2023, 14:53:38 	 Invalid token
+----------------------------
+28.3.2023, 14:54:21 	 Invalid token
+----------------------------
+30.3.2023, 19:08:05 	 "email" length must be less than or equal to 20 characters long
+----------------------------
+30.3.2023, 19:12:05 	 Invalid token
+----------------------------
+30.3.2023, 19:12:05 	 Invalid token
+----------------------------
+30.3.2023, 19:12:05 	 Invalid token
+----------------------------
+30.3.2023, 19:12:05 	 Invalid token
+----------------------------
+30.3.2023, 19:12:05 	 Invalid token
+----------------------------
+30.3.2023, 19:12:05 	 Invalid token
+----------------------------
+30.3.2023, 19:12:05 	 Invalid token
+----------------------------
+30.3.2023, 19:12:05 	 Invalid token
+----------------------------
+30.3.2023, 19:12:05 	 Invalid token
+----------------------------
+30.3.2023, 19:12:05 	 Invalid token
+----------------------------
+30.3.2023, 19:12:05 	 Invalid token
+----------------------------
+30.3.2023, 19:12:05 	 Invalid token
+----------------------------
+30.3.2023, 19:12:05 	 Invalid token
+----------------------------
+30.3.2023, 19:12:05 	 Invalid token
+----------------------------
+30.3.2023, 19:12:05 	 Invalid token
+----------------------------
+30.3.2023, 19:12:05 	 Invalid token
+----------------------------
+30.3.2023, 19:12:05 	 Invalid token
+----------------------------
+30.3.2023, 19:15:01 	 Invalid token
+----------------------------
+30.3.2023, 19:15:01 	 Invalid token
+----------------------------
+30.3.2023, 19:15:01 	 Invalid token
+----------------------------
+30.3.2023, 19:15:01 	 Invalid token
+----------------------------
+30.3.2023, 19:15:01 	 Invalid token
+----------------------------
+30.3.2023, 19:15:01 	 Invalid token
+----------------------------
+30.3.2023, 19:15:01 	 Invalid token
+----------------------------
+30.3.2023, 19:15:01 	 Invalid token
+----------------------------
+30.3.2023, 19:15:01 	 Invalid token
+----------------------------
+30.3.2023, 19:15:01 	 Invalid token
+----------------------------
+30.3.2023, 19:15:01 	 Invalid token
+----------------------------
+30.3.2023, 19:15:01 	 Invalid token
+----------------------------
+30.3.2023, 19:15:01 	 Invalid token
+----------------------------
+30.3.2023, 19:15:01 	 Invalid token
+----------------------------
+30.3.2023, 19:15:01 	 Invalid token
+----------------------------
+30.3.2023, 19:15:01 	 Invalid token
+----------------------------
+30.3.2023, 19:15:01 	 Invalid token
+----------------------------
+30.3.2023, 19:15:39 	 Invalid token
+----------------------------
+30.3.2023, 19:15:39 	 Invalid token
+----------------------------
+30.3.2023, 19:15:39 	 Invalid token
+----------------------------
+30.3.2023, 19:15:39 	 Invalid token
+----------------------------
+30.3.2023, 19:15:39 	 Invalid token
+----------------------------
+30.3.2023, 19:15:39 	 Invalid token
+----------------------------
+30.3.2023, 19:15:39 	 Invalid token
+----------------------------
+30.3.2023, 19:15:39 	 Invalid token
+----------------------------
+30.3.2023, 19:15:39 	 Invalid token
+----------------------------
+30.3.2023, 19:15:39 	 Invalid token
+----------------------------
+30.3.2023, 19:15:39 	 Invalid token
+----------------------------
+30.3.2023, 19:15:39 	 Invalid token
+----------------------------
+30.3.2023, 19:15:39 	 Invalid token
+----------------------------
+30.3.2023, 19:15:39 	 Invalid token
+----------------------------
+30.3.2023, 19:15:39 	 Invalid token
+----------------------------
+30.3.2023, 19:15:39 	 Invalid token
+----------------------------
+30.3.2023, 19:15:39 	 Invalid token
+----------------------------
+30.3.2023, 19:16:04 	 Invalid token
+----------------------------
+30.3.2023, 19:16:04 	 Invalid token
+----------------------------
+30.3.2023, 19:16:04 	 Invalid token
+----------------------------
+30.3.2023, 19:16:04 	 Invalid token
+----------------------------
+30.3.2023, 19:16:04 	 Invalid token
+----------------------------
+30.3.2023, 19:16:04 	 Invalid token
+----------------------------
+30.3.2023, 19:16:04 	 Invalid token
+----------------------------
+30.3.2023, 19:16:04 	 Invalid token
+----------------------------
+30.3.2023, 19:16:04 	 Invalid token
+----------------------------
+30.3.2023, 19:16:04 	 Invalid token
+----------------------------
+30.3.2023, 19:16:04 	 Invalid token
+----------------------------
+30.3.2023, 19:16:04 	 Invalid token
+----------------------------
+30.3.2023, 19:16:04 	 Invalid token
+----------------------------
+30.3.2023, 19:16:04 	 Invalid token
+----------------------------
+30.3.2023, 19:16:04 	 Invalid token
+----------------------------
+30.3.2023, 19:16:04 	 Invalid token
+----------------------------
+30.3.2023, 19:16:04 	 Invalid token
+----------------------------
+30.3.2023, 19:17:27 	 Invalid token
+----------------------------
+30.3.2023, 19:17:27 	 Invalid token
+----------------------------
+30.3.2023, 19:17:27 	 Invalid token
+----------------------------
+30.3.2023, 19:17:27 	 Invalid token
+----------------------------
+30.3.2023, 19:17:27 	 Invalid token
+----------------------------
+30.3.2023, 19:17:27 	 Invalid token
+----------------------------
+30.3.2023, 19:17:27 	 Invalid token
+----------------------------
+30.3.2023, 19:17:27 	 Invalid token
+----------------------------
+30.3.2023, 19:17:27 	 Invalid token
+----------------------------
+30.3.2023, 19:17:27 	 Invalid token
+----------------------------
+30.3.2023, 19:17:27 	 Invalid token
+----------------------------
+30.3.2023, 19:17:27 	 Invalid token
+----------------------------
+30.3.2023, 19:17:27 	 Invalid token
+----------------------------
+30.3.2023, 19:17:27 	 Invalid token
+----------------------------
+30.3.2023, 19:17:27 	 Invalid token
+----------------------------
+30.3.2023, 19:17:27 	 Invalid token
+----------------------------
+30.3.2023, 19:17:27 	 Invalid token
+----------------------------
+30.3.2023, 19:18:49 	 Invalid token
+----------------------------
+30.3.2023, 19:18:49 	 Invalid token
+----------------------------
+30.3.2023, 19:18:49 	 Invalid token
+----------------------------
+30.3.2023, 19:18:49 	 Invalid token
+----------------------------
+30.3.2023, 19:18:49 	 Invalid token
+----------------------------
+30.3.2023, 19:18:49 	 Invalid token
+----------------------------
+30.3.2023, 19:18:49 	 Invalid token
+----------------------------
+30.3.2023, 19:18:49 	 Invalid token
+----------------------------
+30.3.2023, 19:18:49 	 Invalid token
+----------------------------
+30.3.2023, 19:18:49 	 Invalid token
+----------------------------
+30.3.2023, 19:18:49 	 Invalid token
+----------------------------
+30.3.2023, 19:18:49 	 Invalid token
+----------------------------
+30.3.2023, 19:18:49 	 Invalid token
+----------------------------
+30.3.2023, 19:18:49 	 Invalid token
+----------------------------
+30.3.2023, 19:18:50 	 Invalid token
+----------------------------
+30.3.2023, 19:18:50 	 Invalid token
+----------------------------
+30.3.2023, 19:18:50 	 Invalid token
+----------------------------
+30.3.2023, 19:19:35 	 Invalid token
+----------------------------
+30.3.2023, 19:19:35 	 Invalid token
+----------------------------
+30.3.2023, 19:19:35 	 Invalid token
+----------------------------
+30.3.2023, 19:19:35 	 Invalid token
+----------------------------
+30.3.2023, 19:19:35 	 Invalid token
+----------------------------
+30.3.2023, 19:19:35 	 Invalid token
+----------------------------
+30.3.2023, 19:19:35 	 Invalid token
+----------------------------
+30.3.2023, 19:19:35 	 Invalid token
+----------------------------
+30.3.2023, 19:19:35 	 Invalid token
+----------------------------
+30.3.2023, 19:19:35 	 Invalid token
+----------------------------
+30.3.2023, 19:19:35 	 Invalid token
+----------------------------
+30.3.2023, 19:19:35 	 Invalid token
+----------------------------
+30.3.2023, 19:19:35 	 Invalid token
+----------------------------
+30.3.2023, 19:19:35 	 Invalid token
+----------------------------
+30.3.2023, 19:19:35 	 Invalid token
+----------------------------
+30.3.2023, 19:19:35 	 Invalid token
+----------------------------
+30.3.2023, 19:19:35 	 Invalid token
+----------------------------
+30.3.2023, 19:20:37 	 Invalid token
+----------------------------
+30.3.2023, 19:20:37 	 Invalid token
+----------------------------
+30.3.2023, 19:20:38 	 Invalid token
+----------------------------
+30.3.2023, 19:20:38 	 Invalid token
+----------------------------
+30.3.2023, 19:20:38 	 Invalid token
+----------------------------
+30.3.2023, 19:20:38 	 Invalid token
+----------------------------
+30.3.2023, 19:20:38 	 Invalid token
+----------------------------
+30.3.2023, 19:20:38 	 Invalid token
+----------------------------
+30.3.2023, 19:20:38 	 Invalid token
+----------------------------
+30.3.2023, 19:20:38 	 Invalid token
+----------------------------
+30.3.2023, 19:20:38 	 Invalid token
+----------------------------
+30.3.2023, 19:20:38 	 Invalid token
+----------------------------
+30.3.2023, 19:20:38 	 Invalid token
+----------------------------
+30.3.2023, 19:20:38 	 Invalid token
+----------------------------
+30.3.2023, 19:20:38 	 Invalid token
+----------------------------
+30.3.2023, 19:20:38 	 Invalid token
+----------------------------
+30.3.2023, 19:20:38 	 Invalid token
+----------------------------
+30.3.2023, 19:23:10 	 Invalid token
+----------------------------
+30.3.2023, 19:23:10 	 Invalid token
+----------------------------
+30.3.2023, 19:23:10 	 Invalid token
+----------------------------
+30.3.2023, 19:23:10 	 Invalid token
+----------------------------
+30.3.2023, 19:23:10 	 Invalid token
+----------------------------
+30.3.2023, 19:23:10 	 Invalid token
+----------------------------
+30.3.2023, 19:23:10 	 Invalid token
+----------------------------
+30.3.2023, 19:23:10 	 Invalid token
+----------------------------
+30.3.2023, 19:23:10 	 Invalid token
+----------------------------
+30.3.2023, 19:23:10 	 Invalid token
+----------------------------
+30.3.2023, 19:23:10 	 Invalid token
+----------------------------
+30.3.2023, 19:23:10 	 Invalid token
+----------------------------
+30.3.2023, 19:23:10 	 Invalid token
+----------------------------
+30.3.2023, 19:23:10 	 Invalid token
+----------------------------
+30.3.2023, 19:23:10 	 Invalid token
+----------------------------
+30.3.2023, 19:23:10 	 Invalid token
+----------------------------
+30.3.2023, 19:23:10 	 Invalid token
+----------------------------
+30.3.2023, 19:23:11 	 Invalid token
+----------------------------
+30.3.2023, 19:23:11 	 Invalid token
+----------------------------
+30.3.2023, 19:23:11 	 Invalid token
+----------------------------
+30.3.2023, 19:23:11 	 Invalid token
+----------------------------
+30.3.2023, 19:23:11 	 Invalid token
+----------------------------
+30.3.2023, 19:23:11 	 Invalid token
+----------------------------
+30.3.2023, 19:23:11 	 Invalid token
+----------------------------
+30.3.2023, 19:23:11 	 Invalid token
+----------------------------
+30.3.2023, 19:23:11 	 Invalid token
+----------------------------
+30.3.2023, 19:23:11 	 Invalid token
+----------------------------
+30.3.2023, 19:23:11 	 Invalid token
+----------------------------
+30.3.2023, 19:23:11 	 Invalid token
+----------------------------
+30.3.2023, 19:23:11 	 Invalid token
+----------------------------
+30.3.2023, 19:23:11 	 Invalid token
+----------------------------
+30.3.2023, 19:23:12 	 Invalid token
+----------------------------
+30.3.2023, 19:23:12 	 Invalid token
+----------------------------
+30.3.2023, 19:23:12 	 Invalid token
+----------------------------
+30.3.2023, 19:23:15 	 Invalid token
+----------------------------
+30.3.2023, 19:23:15 	 Invalid token
+----------------------------
+30.3.2023, 19:23:15 	 Invalid token
+----------------------------
+30.3.2023, 19:23:15 	 Invalid token
+----------------------------
+30.3.2023, 19:23:15 	 Invalid token
+----------------------------
+30.3.2023, 19:23:15 	 Invalid token
+----------------------------
+30.3.2023, 19:23:15 	 Invalid token
+----------------------------
+30.3.2023, 19:23:15 	 Invalid token
+----------------------------
+30.3.2023, 19:23:15 	 Invalid token
+----------------------------
+30.3.2023, 19:23:15 	 Invalid token
+----------------------------
+30.3.2023, 19:23:15 	 Invalid token
+----------------------------
+30.3.2023, 19:23:15 	 Invalid token
+----------------------------
+30.3.2023, 19:23:15 	 Invalid token
+----------------------------
+30.3.2023, 19:23:15 	 Invalid token
+----------------------------
+30.3.2023, 19:23:15 	 Invalid token
+----------------------------
+30.3.2023, 19:23:15 	 Invalid token
+----------------------------
+30.3.2023, 19:23:15 	 Invalid token
+----------------------------
+30.3.2023, 19:23:20 	 Invalid token
+----------------------------
+30.3.2023, 19:23:20 	 Invalid token
+----------------------------
+30.3.2023, 19:23:20 	 Invalid token
+----------------------------
+30.3.2023, 19:23:20 	 Invalid token
+----------------------------
+30.3.2023, 19:23:20 	 Invalid token
+----------------------------
+30.3.2023, 19:23:20 	 Invalid token
+----------------------------
+30.3.2023, 19:23:20 	 Invalid token
+----------------------------
+30.3.2023, 19:23:20 	 Invalid token
+----------------------------
+30.3.2023, 19:23:20 	 Invalid token
+----------------------------
+30.3.2023, 19:23:20 	 Invalid token
+----------------------------
+30.3.2023, 19:23:20 	 Invalid token
+----------------------------
+30.3.2023, 19:23:20 	 Invalid token
+----------------------------
+30.3.2023, 19:23:20 	 Invalid token
+----------------------------
+30.3.2023, 19:23:20 	 Invalid token
+----------------------------
+30.3.2023, 19:23:20 	 Invalid token
+----------------------------
+30.3.2023, 19:23:20 	 Invalid token
+----------------------------
+30.3.2023, 19:23:20 	 Invalid token
+----------------------------
+30.3.2023, 19:29:59 	 Invalid token
+----------------------------
+30.3.2023, 19:29:59 	 Invalid token
+----------------------------
+30.3.2023, 19:29:59 	 Invalid token
+----------------------------
+30.3.2023, 19:29:59 	 Invalid token
+----------------------------
+30.3.2023, 19:29:59 	 Invalid token
+----------------------------
+30.3.2023, 19:29:59 	 Invalid token
+----------------------------
+30.3.2023, 19:29:59 	 Invalid token
+----------------------------
+30.3.2023, 19:29:59 	 Invalid token
+----------------------------
+30.3.2023, 19:29:59 	 Invalid token
+----------------------------
+30.3.2023, 19:29:59 	 Invalid token
+----------------------------
+30.3.2023, 19:29:59 	 Invalid token
+----------------------------
+30.3.2023, 19:29:59 	 Invalid token
+----------------------------
+30.3.2023, 19:29:59 	 Invalid token
+----------------------------
+30.3.2023, 19:29:59 	 Invalid token
+----------------------------
+30.3.2023, 19:29:59 	 Invalid token
+----------------------------
+30.3.2023, 19:29:59 	 Invalid token
+----------------------------
+30.3.2023, 19:29:59 	 Invalid token
+----------------------------
+30.3.2023, 19:30:17 	 Invalid token
+----------------------------
+30.3.2023, 19:30:17 	 Invalid token
+----------------------------
+30.3.2023, 19:30:17 	 Invalid token
+----------------------------
+30.3.2023, 19:30:17 	 Invalid token
+----------------------------
+30.3.2023, 19:30:17 	 Invalid token
+----------------------------
+30.3.2023, 19:30:17 	 Invalid token
+----------------------------
+30.3.2023, 19:30:17 	 Invalid token
+----------------------------
+30.3.2023, 19:30:17 	 Invalid token
+----------------------------
+30.3.2023, 19:30:17 	 Invalid token
+----------------------------
+30.3.2023, 19:30:17 	 Invalid token
+----------------------------
+30.3.2023, 19:30:17 	 Invalid token
+----------------------------
+30.3.2023, 19:30:17 	 Invalid token
+----------------------------
+30.3.2023, 19:30:17 	 Invalid token
+----------------------------
+30.3.2023, 19:30:17 	 Invalid token
+----------------------------
+30.3.2023, 19:30:17 	 Invalid token
+----------------------------
+30.3.2023, 19:30:17 	 Invalid token
+----------------------------
+30.3.2023, 19:30:17 	 Invalid token
+----------------------------
+30.3.2023, 19:30:31 	 Invalid token
+----------------------------
+30.3.2023, 19:30:31 	 Invalid token
+----------------------------
+30.3.2023, 19:30:31 	 Invalid token
+----------------------------
+30.3.2023, 19:30:31 	 Invalid token
+----------------------------
+30.3.2023, 19:30:31 	 Invalid token
+----------------------------
+30.3.2023, 19:30:31 	 Invalid token
+----------------------------
+30.3.2023, 19:30:31 	 Invalid token
+----------------------------
+30.3.2023, 19:30:31 	 Invalid token
+----------------------------
+30.3.2023, 19:30:31 	 Invalid token
+----------------------------
+30.3.2023, 19:30:31 	 Invalid token
+----------------------------
+30.3.2023, 19:30:31 	 Invalid token
+----------------------------
+30.3.2023, 19:30:31 	 Invalid token
+----------------------------
+30.3.2023, 19:30:31 	 Invalid token
+----------------------------
+30.3.2023, 19:30:31 	 Invalid token
+----------------------------
+30.3.2023, 19:30:31 	 Invalid token
+----------------------------
+30.3.2023, 19:30:31 	 Invalid token
+----------------------------
+30.3.2023, 19:30:31 	 Invalid token
+----------------------------
+30.3.2023, 19:34:21 	 Invalid token
+----------------------------
+30.3.2023, 19:34:21 	 Invalid token
+----------------------------
+30.3.2023, 19:34:21 	 Invalid token
+----------------------------
+30.3.2023, 19:34:21 	 Invalid token
+----------------------------
+30.3.2023, 19:34:21 	 Invalid token
+----------------------------
+30.3.2023, 19:34:21 	 Invalid token
+----------------------------
+30.3.2023, 19:34:21 	 Invalid token
+----------------------------
+30.3.2023, 19:34:21 	 Invalid token
+----------------------------
+30.3.2023, 19:34:21 	 Invalid token
+----------------------------
+30.3.2023, 19:34:21 	 Invalid token
+----------------------------
+30.3.2023, 19:34:21 	 Invalid token
+----------------------------
+30.3.2023, 19:34:21 	 Invalid token
+----------------------------
+30.3.2023, 19:34:21 	 Invalid token
+----------------------------
+30.3.2023, 19:34:21 	 Invalid token
+----------------------------
+30.3.2023, 19:34:21 	 Invalid token
+----------------------------
+30.3.2023, 19:34:21 	 Invalid token
+----------------------------
+30.3.2023, 19:34:21 	 Invalid token
+----------------------------
+30.3.2023, 19:34:22 	 Invalid token
+----------------------------
+30.3.2023, 19:34:22 	 Invalid token
+----------------------------
+30.3.2023, 19:34:22 	 Invalid token
+----------------------------
+30.3.2023, 19:34:22 	 Invalid token
+----------------------------
+30.3.2023, 19:34:22 	 Invalid token
+----------------------------
+30.3.2023, 19:34:22 	 Invalid token
+----------------------------
+30.3.2023, 19:34:22 	 Invalid token
+----------------------------
+30.3.2023, 19:34:22 	 Invalid token
+----------------------------
+30.3.2023, 19:34:22 	 Invalid token
+----------------------------
+30.3.2023, 19:34:22 	 Invalid token
+----------------------------
+30.3.2023, 19:34:22 	 Invalid token
+----------------------------
+30.3.2023, 19:34:22 	 Invalid token
+----------------------------
+30.3.2023, 19:34:22 	 Invalid token
+----------------------------
+30.3.2023, 19:34:22 	 Invalid token
+----------------------------
+30.3.2023, 19:34:22 	 Invalid token
+----------------------------
+30.3.2023, 19:34:22 	 Invalid token
+----------------------------
+30.3.2023, 19:34:22 	 Invalid token
+----------------------------
+30.3.2023, 19:41:24 	 Route /products not exist
+----------------------------
+30.3.2023, 19:41:24 	 Route /favicon.ico not exist
+----------------------------
+30.3.2023, 19:41:57 	 Invalid token
+----------------------------
+30.3.2023, 19:42:09 	 path must be absolute or specify root to res.sendFile
+----------------------------
+30.3.2023, 19:43:25 	 path must be absolute or specify root to res.sendFile
+----------------------------
+30.3.2023, 19:43:49 	 path must be absolute or specify root to res.sendFile
+----------------------------
+30.3.2023, 19:47:45 	 path must be absolute or specify root to res.sendFile
+----------------------------
+30.3.2023, 19:47:46 	 path must be absolute or specify root to res.sendFile
+----------------------------
+30.3.2023, 19:48:01 	 path must be absolute or specify root to res.sendFile
+----------------------------
+30.3.2023, 19:48:09 	 path must be absolute or specify root to res.sendFile
+----------------------------
+30.3.2023, 19:48:21 	 path must be absolute or specify root to res.sendFile
+----------------------------
+30.3.2023, 19:48:51 	 path must be absolute or specify root to res.sendFile
+----------------------------
+30.3.2023, 19:48:59 	 path must be absolute or specify root to res.sendFile
+----------------------------
+30.3.2023, 19:49:07 	 path must be absolute or specify root to res.sendFile
+----------------------------
+30.3.2023, 19:49:16 	 path must be absolute or specify root to res.sendFile
+----------------------------
+31.3.2023, 9:35:03 	 Invalid token
+----------------------------
+31.3.2023, 9:35:46 	 Invalid token
+----------------------------
+31.3.2023, 9:40:48 	 Invalid token
+----------------------------
+31.3.2023, 9:40:48 	 Invalid token
+----------------------------
+31.3.2023, 9:40:48 	 Invalid token
+----------------------------
+31.3.2023, 9:40:48 	 Invalid token
+----------------------------
+31.3.2023, 9:40:48 	 Invalid token
+----------------------------
+31.3.2023, 9:40:48 	 Invalid token
+----------------------------
+31.3.2023, 9:40:48 	 Invalid token
+----------------------------
+31.3.2023, 9:40:48 	 Invalid token
+----------------------------
+31.3.2023, 9:40:48 	 Invalid token
+----------------------------
+31.3.2023, 9:40:48 	 Invalid token
+----------------------------
+31.3.2023, 9:40:48 	 Invalid token
+----------------------------
+31.3.2023, 9:40:48 	 Invalid token
+----------------------------
+31.3.2023, 9:40:48 	 Invalid token
+----------------------------
+31.3.2023, 9:40:48 	 Invalid token
+----------------------------
+31.3.2023, 9:40:48 	 Invalid token
+----------------------------
+31.3.2023, 9:40:48 	 Invalid token
+----------------------------
+31.3.2023, 9:40:48 	 Invalid token
+----------------------------
+31.3.2023, 9:41:01 	 Invalid token
+----------------------------
+31.3.2023, 9:41:01 	 Invalid token
+----------------------------
+31.3.2023, 9:41:01 	 Invalid token
+----------------------------
+31.3.2023, 9:41:01 	 Invalid token
+----------------------------
+31.3.2023, 9:41:01 	 Invalid token
+----------------------------
+31.3.2023, 9:41:01 	 Invalid token
+----------------------------
+31.3.2023, 9:41:01 	 Invalid token
+----------------------------
+31.3.2023, 9:41:01 	 Invalid token
+----------------------------
+31.3.2023, 9:41:01 	 Invalid token
+----------------------------
+31.3.2023, 9:41:01 	 Invalid token
+----------------------------
+31.3.2023, 9:41:01 	 Invalid token
+----------------------------
+31.3.2023, 9:41:01 	 Invalid token
+----------------------------
+31.3.2023, 9:41:01 	 Invalid token
+----------------------------
+31.3.2023, 9:41:01 	 Invalid token
+----------------------------
+31.3.2023, 9:41:01 	 Invalid token
+----------------------------
+31.3.2023, 9:41:01 	 Invalid token
+----------------------------
+31.3.2023, 9:41:01 	 Invalid token
+----------------------------
+31.3.2023, 9:41:32 	 Invalid token
+----------------------------
+31.3.2023, 9:41:32 	 Invalid token
+----------------------------
+31.3.2023, 9:41:32 	 Invalid token
+----------------------------
+31.3.2023, 9:41:32 	 Invalid token
+----------------------------
+31.3.2023, 9:41:32 	 Invalid token
+----------------------------
+31.3.2023, 9:41:32 	 Invalid token
+----------------------------
+31.3.2023, 9:41:32 	 Invalid token
+----------------------------
+31.3.2023, 9:41:32 	 Invalid token
+----------------------------
+31.3.2023, 9:41:32 	 Invalid token
+----------------------------
+31.3.2023, 9:41:32 	 Invalid token
+----------------------------
+31.3.2023, 9:41:32 	 Invalid token
+----------------------------
+31.3.2023, 9:41:32 	 Invalid token
+----------------------------
+31.3.2023, 9:41:32 	 Invalid token
+----------------------------
+31.3.2023, 9:41:32 	 Invalid token
+----------------------------
+31.3.2023, 9:41:32 	 Invalid token
+----------------------------
+31.3.2023, 9:41:32 	 Invalid token
+----------------------------
+31.3.2023, 9:41:32 	 Invalid token
+----------------------------
+31.3.2023, 9:42:56 	 Invalid token
+----------------------------
+31.3.2023, 9:42:56 	 Invalid token
+----------------------------
+31.3.2023, 9:42:56 	 Invalid token
+----------------------------
+31.3.2023, 9:42:56 	 Invalid token
+----------------------------
+31.3.2023, 9:42:56 	 Invalid token
+----------------------------
+31.3.2023, 9:42:56 	 Invalid token
+----------------------------
+31.3.2023, 9:42:56 	 Invalid token
+----------------------------
+31.3.2023, 9:42:56 	 Invalid token
+----------------------------
+31.3.2023, 9:42:56 	 Invalid token
+----------------------------
+31.3.2023, 9:42:56 	 Invalid token
+----------------------------
+31.3.2023, 9:42:56 	 Invalid token
+----------------------------
+31.3.2023, 9:42:56 	 Invalid token
+----------------------------
+31.3.2023, 9:42:56 	 Invalid token
+----------------------------
+31.3.2023, 9:42:56 	 Invalid token
+----------------------------
+31.3.2023, 9:42:56 	 Invalid token
+----------------------------
+31.3.2023, 9:42:56 	 Invalid token
+----------------------------
+31.3.2023, 9:42:56 	 Invalid token
+----------------------------
+31.3.2023, 9:43:41 	 Invalid token
+----------------------------
+31.3.2023, 9:43:41 	 Invalid token
+----------------------------
+31.3.2023, 9:43:41 	 Invalid token
+----------------------------
+31.3.2023, 9:43:41 	 Invalid token
+----------------------------
+31.3.2023, 9:43:41 	 Invalid token
+----------------------------
+31.3.2023, 9:43:41 	 Invalid token
+----------------------------
+31.3.2023, 9:43:41 	 Invalid token
+----------------------------
+31.3.2023, 9:43:41 	 Invalid token
+----------------------------
+31.3.2023, 9:43:41 	 Invalid token
+----------------------------
+31.3.2023, 9:43:41 	 Invalid token
+----------------------------
+31.3.2023, 9:43:41 	 Invalid token
+----------------------------
+31.3.2023, 9:43:41 	 Invalid token
+----------------------------
+31.3.2023, 9:43:41 	 Invalid token
+----------------------------
+31.3.2023, 9:43:41 	 Invalid token
+----------------------------
+31.3.2023, 9:43:41 	 Invalid token
+----------------------------
+31.3.2023, 9:43:41 	 Invalid token
+----------------------------
+31.3.2023, 9:43:41 	 Invalid token
+----------------------------
+31.3.2023, 9:44:41 	 Invalid token
+----------------------------
+31.3.2023, 9:44:41 	 Invalid token
+----------------------------
+31.3.2023, 9:44:41 	 Invalid token
+----------------------------
+31.3.2023, 9:44:41 	 Invalid token
+----------------------------
+31.3.2023, 9:44:41 	 Invalid token
+----------------------------
+31.3.2023, 9:44:41 	 Invalid token
+----------------------------
+31.3.2023, 9:44:41 	 Invalid token
+----------------------------
+31.3.2023, 9:44:41 	 Invalid token
+----------------------------
+31.3.2023, 9:44:41 	 Invalid token
+----------------------------
+31.3.2023, 9:44:41 	 Invalid token
+----------------------------
+31.3.2023, 9:44:41 	 Invalid token
+----------------------------
+31.3.2023, 9:44:41 	 Invalid token
+----------------------------
+31.3.2023, 9:44:41 	 Invalid token
+----------------------------
+31.3.2023, 9:44:41 	 Invalid token
+----------------------------
+31.3.2023, 9:44:41 	 Invalid token
+----------------------------
+31.3.2023, 9:44:41 	 Invalid token
+----------------------------
+31.3.2023, 9:44:41 	 Invalid token
+----------------------------
+31.3.2023, 9:46:00 	 Invalid token
+----------------------------
+31.3.2023, 9:46:00 	 Invalid token
+----------------------------
+31.3.2023, 9:46:00 	 Invalid token
+----------------------------
+31.3.2023, 9:46:00 	 Invalid token
+----------------------------
+31.3.2023, 9:46:00 	 Invalid token
+----------------------------
+31.3.2023, 9:46:00 	 Invalid token
+----------------------------
+31.3.2023, 9:46:00 	 Invalid token
+----------------------------
+31.3.2023, 9:46:00 	 Invalid token
+----------------------------
+31.3.2023, 9:46:00 	 Invalid token
+----------------------------
+31.3.2023, 9:46:00 	 Invalid token
+----------------------------
+31.3.2023, 9:46:00 	 Invalid token
+----------------------------
+31.3.2023, 9:46:00 	 Invalid token
+----------------------------
+31.3.2023, 9:46:00 	 Invalid token
+----------------------------
+31.3.2023, 9:46:00 	 Invalid token
+----------------------------
+31.3.2023, 9:46:00 	 Invalid token
+----------------------------
+31.3.2023, 9:46:00 	 Invalid token
+----------------------------
+31.3.2023, 9:46:00 	 Invalid token
+----------------------------
+31.3.2023, 9:46:40 	 Invalid token
+----------------------------
+31.3.2023, 9:46:40 	 Invalid token
+----------------------------
+31.3.2023, 9:46:40 	 Invalid token
+----------------------------
+31.3.2023, 9:46:40 	 Invalid token
+----------------------------
+31.3.2023, 9:46:40 	 Invalid token
+----------------------------
+31.3.2023, 9:46:40 	 Invalid token
+----------------------------
+31.3.2023, 9:46:40 	 Invalid token
+----------------------------
+31.3.2023, 9:46:40 	 Invalid token
+----------------------------
+31.3.2023, 9:46:40 	 Invalid token
+----------------------------
+31.3.2023, 9:46:40 	 Invalid token
+----------------------------
+31.3.2023, 9:46:40 	 Invalid token
+----------------------------
+31.3.2023, 9:46:40 	 Invalid token
+----------------------------
+31.3.2023, 9:46:40 	 Invalid token
+----------------------------
+31.3.2023, 9:46:40 	 Invalid token
+----------------------------
+31.3.2023, 9:46:40 	 Invalid token
+----------------------------
+31.3.2023, 9:46:40 	 Invalid token
+----------------------------
+31.3.2023, 9:46:40 	 Invalid token
+----------------------------
+31.3.2023, 9:46:54 	 Invalid token
+----------------------------
+31.3.2023, 9:46:54 	 Invalid token
+----------------------------
+31.3.2023, 9:46:54 	 Invalid token
+----------------------------
+31.3.2023, 9:46:54 	 Invalid token
+----------------------------
+31.3.2023, 9:46:54 	 Invalid token
+----------------------------
+31.3.2023, 9:46:54 	 Invalid token
+----------------------------
+31.3.2023, 9:46:54 	 Invalid token
+----------------------------
+31.3.2023, 9:46:54 	 Invalid token
+----------------------------
+31.3.2023, 9:46:54 	 Invalid token
+----------------------------
+31.3.2023, 9:46:54 	 Invalid token
+----------------------------
+31.3.2023, 9:46:54 	 Invalid token
+----------------------------
+31.3.2023, 9:46:54 	 Invalid token
+----------------------------
+31.3.2023, 9:46:54 	 Invalid token
+----------------------------
+31.3.2023, 9:46:54 	 Invalid token
+----------------------------
+31.3.2023, 9:46:54 	 Invalid token
+----------------------------
+31.3.2023, 9:46:54 	 Invalid token
+----------------------------
+31.3.2023, 9:46:54 	 Invalid token
+----------------------------
+31.3.2023, 9:47:29 	 Invalid token
+----------------------------
+31.3.2023, 9:47:29 	 Invalid token
+----------------------------
+31.3.2023, 9:47:29 	 Invalid token
+----------------------------
+31.3.2023, 9:47:29 	 Invalid token
+----------------------------
+31.3.2023, 9:47:29 	 Invalid token
+----------------------------
+31.3.2023, 9:47:29 	 Invalid token
+----------------------------
+31.3.2023, 9:47:29 	 Invalid token
+----------------------------
+31.3.2023, 9:47:29 	 Invalid token
+----------------------------
+31.3.2023, 9:47:29 	 Invalid token
+----------------------------
+31.3.2023, 9:47:29 	 Invalid token
+----------------------------
+31.3.2023, 9:47:29 	 Invalid token
+----------------------------
+31.3.2023, 9:47:29 	 Invalid token
+----------------------------
+31.3.2023, 9:47:29 	 Invalid token
+----------------------------
+31.3.2023, 9:47:29 	 Invalid token
+----------------------------
+31.3.2023, 9:47:29 	 Invalid token
+----------------------------
+31.3.2023, 9:47:29 	 Invalid token
+----------------------------
+31.3.2023, 9:47:29 	 Invalid token
+----------------------------
+31.3.2023, 9:47:33 	 Invalid token
+----------------------------
+31.3.2023, 9:47:38 	 Invalid token
+----------------------------
+31.3.2023, 9:47:43 	 Invalid token
+----------------------------
+31.3.2023, 9:47:47 	 Invalid token
+----------------------------
+31.3.2023, 9:48:05 	 Invalid token
+----------------------------
+31.3.2023, 9:48:05 	 Invalid token
+----------------------------
+31.3.2023, 9:48:05 	 Invalid token
+----------------------------
+31.3.2023, 9:48:05 	 Invalid token
+----------------------------
+31.3.2023, 9:48:05 	 Invalid token
+----------------------------
+31.3.2023, 9:48:05 	 Invalid token
+----------------------------
+31.3.2023, 9:48:05 	 Invalid token
+----------------------------
+31.3.2023, 9:48:05 	 Invalid token
+----------------------------
+31.3.2023, 9:48:05 	 Invalid token
+----------------------------
+31.3.2023, 9:48:05 	 Invalid token
+----------------------------
+31.3.2023, 9:48:05 	 Invalid token
+----------------------------
+31.3.2023, 9:48:05 	 Invalid token
+----------------------------
+31.3.2023, 9:48:05 	 Invalid token
+----------------------------
+31.3.2023, 9:48:05 	 Invalid token
+----------------------------
+31.3.2023, 9:48:05 	 Invalid token
+----------------------------
+31.3.2023, 9:48:05 	 Invalid token
+----------------------------
+31.3.2023, 9:48:05 	 Invalid token
+----------------------------
+31.3.2023, 9:48:37 	 Invalid token
+----------------------------
+31.3.2023, 9:48:55 	 Invalid token
+----------------------------
+31.3.2023, 9:57:48 	 Invalid token
+----------------------------
+31.3.2023, 9:57:48 	 Invalid token
+----------------------------
+31.3.2023, 9:57:48 	 Invalid token
+----------------------------
+31.3.2023, 9:57:48 	 Invalid token
+----------------------------
+31.3.2023, 9:57:48 	 Invalid token
+----------------------------
+31.3.2023, 9:57:48 	 Invalid token
+----------------------------
+31.3.2023, 9:57:48 	 Invalid token
+----------------------------
+31.3.2023, 9:57:48 	 Invalid token
+----------------------------
+31.3.2023, 9:57:48 	 Invalid token
+----------------------------
+31.3.2023, 9:57:48 	 Invalid token
+----------------------------
+31.3.2023, 9:57:48 	 Invalid token
+----------------------------
+31.3.2023, 9:57:48 	 Invalid token
+----------------------------
+31.3.2023, 9:57:48 	 Invalid token
+----------------------------
+31.3.2023, 9:57:48 	 Invalid token
+----------------------------
+31.3.2023, 9:57:48 	 Invalid token
+----------------------------
+31.3.2023, 9:57:48 	 Invalid token
+----------------------------
+31.3.2023, 9:57:48 	 Invalid token
+----------------------------
+31.3.2023, 9:57:58 	 Invalid token
+----------------------------
+31.3.2023, 9:58:33 	 Invalid token
+----------------------------
+31.3.2023, 9:58:33 	 Invalid token
+----------------------------
+31.3.2023, 9:58:33 	 Invalid token
+----------------------------
+31.3.2023, 9:58:33 	 Invalid token
+----------------------------
+31.3.2023, 9:58:33 	 Invalid token
+----------------------------
+31.3.2023, 9:58:33 	 Invalid token
+----------------------------
+31.3.2023, 9:58:33 	 Invalid token
+----------------------------
+31.3.2023, 9:58:33 	 Invalid token
+----------------------------
+31.3.2023, 9:58:33 	 Invalid token
+----------------------------
+31.3.2023, 9:58:33 	 Invalid token
+----------------------------
+31.3.2023, 9:58:33 	 Invalid token
+----------------------------
+31.3.2023, 9:58:33 	 Invalid token
+----------------------------
+31.3.2023, 9:58:33 	 Invalid token
+----------------------------
+31.3.2023, 9:58:33 	 Invalid token
+----------------------------
+31.3.2023, 9:58:33 	 Invalid token
+----------------------------
+31.3.2023, 9:58:33 	 Invalid token
+----------------------------
+31.3.2023, 9:58:33 	 Invalid token
+----------------------------
+31.3.2023, 9:59:50 	 Invalid token
+----------------------------
+3.4.2023, 10:59:44 	 Invalid token
+----------------------------
+3.4.2023, 11:00:02 	 Invalid token
+----------------------------
+4.4.2023, 17:12:02 	 "quantity" must be a positive number
+----------------------------
+5.4.2023, 16:32:12 	 Invalid token
+----------------------------
+5.4.2023, 16:32:12 	 Invalid token
+----------------------------
+5.4.2023, 16:32:21 	 Invalid token
+----------------------------
+5.4.2023, 16:32:33 	 Invalid token
+----------------------------
+5.4.2023, 16:33:01 	 Invalid token
+----------------------------
+5.4.2023, 16:33:31 	 Invalid token
+----------------------------
+5.4.2023, 16:35:25 	 Invalid token
+----------------------------
+5.4.2023, 16:35:35 	 Invalid token
+----------------------------
+5.4.2023, 16:36:03 	 Invalid token
+----------------------------
+5.4.2023, 16:36:08 	 Invalid token
+----------------------------
+5.4.2023, 16:37:05 	 Invalid token
+----------------------------
+5.4.2023, 16:59:10 	 Invalid token
+----------------------------
+5.4.2023, 16:59:48 	 Invalid token
+----------------------------
+5.4.2023, 17:00:06 	 Invalid token
+----------------------------
+5.4.2023, 17:00:56 	 Invalid token
+----------------------------
+5.4.2023, 17:02:31 	 Invalid token
+----------------------------
+5.4.2023, 17:03:19 	 Invalid token
+----------------------------
+5.4.2023, 17:03:41 	 Invalid token
+----------------------------
+5.4.2023, 17:04:18 	 Invalid token
+----------------------------
+5.4.2023, 17:04:41 	 Invalid token
+----------------------------
+5.4.2023, 17:41:05 	 Route /api/products/product-to-cart not exist
+----------------------------
+5.4.2023, 17:41:23 	 Route /api/cart/product-to-cart not exist
+----------------------------
+5.4.2023, 17:43:39 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `productId` = 7, `quantity` = 5, `cartId` = 9, `totalPrice` = 500' at line 2
+----------------------------
+5.4.2023, 17:55:07 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'field list'
+----------------------------
+5.4.2023, 17:55:10 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'field list'
+----------------------------
+5.4.2023, 17:58:00 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'field list'
+----------------------------
+5.4.2023, 17:59:05 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'field list'
+----------------------------
+5.4.2023, 17:59:19 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'field list'
+----------------------------
+5.4.2023, 17:59:57 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'field list'
+----------------------------
+6.4.2023, 11:05:03 	 Invalid token
+----------------------------
+6.4.2023, 11:39:26 	 Route /api/cart/13 not exist
+----------------------------
+6.4.2023, 11:43:24 	 Route /api/cart/16 not exist
+----------------------------
+6.4.2023, 14:02:40 	 Route /api/cart/products/35 not exist
+----------------------------
+6.4.2023, 14:04:11 	 Route /api/cart/products/undefined not exist
+----------------------------
+6.4.2023, 14:05:31 	 Route /api/cart/products/39 not exist
+----------------------------
+7.4.2023, 15:33:39 	 Invalid token
+----------------------------
+7.4.2023, 15:33:45 	 Invalid token
+----------------------------
+7.4.2023, 15:33:46 	 Invalid token
+----------------------------
+7.4.2023, 15:33:51 	 Invalid token
+----------------------------
+7.4.2023, 15:33:51 	 Invalid token
+----------------------------
+7.4.2023, 15:33:59 	 Invalid token
+----------------------------
+8.4.2023, 15:03:49 	 Invalid token
+----------------------------
+8.4.2023, 15:04:00 	 Invalid token
+----------------------------
+8.4.2023, 15:04:05 	 Invalid token
+----------------------------
+10.4.2023, 17:49:40 	 Invalid token
+----------------------------
+10.4.2023, 17:49:40 	 Invalid token
+----------------------------
+10.4.2023, 17:49:40 	 Invalid token
+----------------------------
+10.4.2023, 17:50:26 	 Invalid token
+----------------------------
+11.4.2023, 10:36:31 	 Invalid token
+----------------------------
+11.4.2023, 10:36:31 	 Invalid token
+----------------------------
+11.4.2023, 10:36:31 	 Invalid token
+----------------------------
+11.4.2023, 10:38:40 	 Invalid token
+----------------------------
+11.4.2023, 10:38:40 	 Invalid token
+----------------------------
+11.4.2023, 10:38:40 	 Invalid token
+----------------------------
+11.4.2023, 10:40:00 	 Invalid token
+----------------------------
+11.4.2023, 10:40:00 	 Invalid token
+----------------------------
+11.4.2023, 10:40:00 	 Invalid token
+----------------------------
+11.4.2023, 10:41:09 	 Invalid token
+----------------------------
+11.4.2023, 10:41:09 	 Invalid token
+----------------------------
+11.4.2023, 10:41:09 	 Invalid token
+----------------------------
+11.4.2023, 10:53:04 	 the number can't be less than 0
+----------------------------
+11.4.2023, 10:53:07 	 there is some problem with removing product
+----------------------------
+11.4.2023, 10:53:11 	 there is some problem with updated
+----------------------------
+11.4.2023, 10:53:29 	 "quantity" must be a positive number
+----------------------------
+11.4.2023, 10:53:34 	 "quantity" must be a positive number
+----------------------------
+11.4.2023, 11:11:57 	 there is some problem with removing product
+----------------------------
+11.4.2023, 17:05:08 	 "quantity" must be a positive number
+----------------------------
+11.4.2023, 17:53:35 	 "quantity" must be a positive number
+----------------------------
+11.4.2023, 17:53:44 	 "quantity" must be a positive number
+----------------------------
+12.4.2023, 21:48:14 	 Invalid token
+----------------------------
+12.4.2023, 21:48:14 	 Invalid token
+----------------------------
+12.4.2023, 21:48:14 	 Invalid token
+----------------------------
+12.6.2023, 10:52:08 	 Invalid token
+----------------------------
+12.6.2023, 11:24:29 	 there is some problem with updated
+----------------------------
+12.6.2023, 11:25:51 	 the number can't be less than 0
+----------------------------
+12.6.2023, 11:25:59 	 the number can't be less than 0
+----------------------------
+12.6.2023, 11:26:09 	 the number can't be less than 0
+----------------------------
+12.6.2023, 11:26:14 	 the number can't be less than 0
+----------------------------
+12.6.2023, 11:26:22 	 there is some problem with removing product
+----------------------------
+12.6.2023, 11:51:38 	 there is some problem with removing product
+----------------------------
+12.6.2023, 12:28:32 	 the number can't be less than 0
+----------------------------
+12.6.2023, 12:30:29 	 the number can't be less than 0
+----------------------------
+12.6.2023, 12:31:22 	 the number can't be less than 0
+----------------------------
+12.6.2023, 12:34:53 	 the number can't be less than 0
+----------------------------
+12.6.2023, 12:35:08 	 "quantity" must be a positive number
+----------------------------
+12.6.2023, 12:36:17 	 the number can't be less than 0
+----------------------------
+12.6.2023, 12:40:08 	 there is some problem with updated
+----------------------------
+12.6.2023, 15:44:13 	 "quantity" must be a positive number
+----------------------------
+13.6.2023, 19:28:04 	 Invalid token
+----------------------------
+13.6.2023, 19:28:04 	 Invalid token
+----------------------------
+13.6.2023, 19:28:04 	 Invalid token
+----------------------------
+14.6.2023, 10:03:11 	 Invalid token
+----------------------------
+14.6.2023, 10:03:11 	 Invalid token
+----------------------------
+14.6.2023, 10:03:11 	 Invalid token
+----------------------------
+14.6.2023, 10:03:11 	 Invalid token
+----------------------------
+14.6.2023, 10:03:11 	 Invalid token
+----------------------------
+14.6.2023, 10:03:11 	 Invalid token
+----------------------------
+14.6.2023, 10:03:11 	 Invalid token
+----------------------------
+14.6.2023, 10:03:11 	 Invalid token
+----------------------------
+14.6.2023, 10:03:11 	 Invalid token
+----------------------------
+14.6.2023, 10:03:11 	 Invalid token
+----------------------------
+14.6.2023, 10:03:11 	 Invalid token
+----------------------------
+14.6.2023, 10:03:11 	 Invalid token
+----------------------------
+14.6.2023, 10:03:11 	 Invalid token
+----------------------------
+14.6.2023, 10:03:11 	 Invalid token
+----------------------------
+14.6.2023, 10:03:11 	 Invalid token
+----------------------------
+14.6.2023, 10:03:11 	 Invalid token
+----------------------------
+14.6.2023, 10:03:11 	 Invalid token
+----------------------------
+14.6.2023, 10:03:11 	 Invalid token
+----------------------------
+14.6.2023, 10:03:11 	 Invalid token
+----------------------------
+14.6.2023, 10:03:11 	 Invalid token
+----------------------------
+14.6.2023, 10:05:04 	 "quantity" must be a positive number
+----------------------------
+14.6.2023, 10:12:01 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+14.6.2023, 10:31:12 	 there is some problem with removing product
+----------------------------
+14.6.2023, 11:10:50 	 there is some problem with updated
+----------------------------
+14.6.2023, 15:55:02 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`shoppingcart`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`roleId`) REFERENCES `roles` (`roleId`))
+----------------------------
+14.6.2023, 15:55:11 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`shoppingcart`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`roleId`) REFERENCES `roles` (`roleId`))
+----------------------------
+14.6.2023, 15:57:57 	 ER_BAD_NULL_ERROR: Column 'cartStartDate' cannot be null
+----------------------------
+14.6.2023, 15:59:04 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+14.6.2023, 15:59:26 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+14.6.2023, 15:59:42 	 ER_BAD_NULL_ERROR: Column 'cartStartDate' cannot be null
+----------------------------
+14.6.2023, 15:59:45 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+15.6.2023, 11:18:51 	 Invalid token
+----------------------------
+15.6.2023, 11:47:08 	 there is some problem with removing product
+----------------------------
+16.6.2023, 10:26:25 	 Invalid token
+----------------------------
+16.6.2023, 10:26:25 	 Invalid token
+----------------------------
+16.6.2023, 10:26:31 	 Invalid token
+----------------------------
+16.6.2023, 10:26:31 	 Invalid token
+----------------------------
+16.6.2023, 10:26:31 	 Invalid token
+----------------------------
+17.6.2023, 18:29:44 	 Invalid token
+----------------------------
+17.6.2023, 18:29:44 	 Invalid token
+----------------------------
+17.6.2023, 18:30:21 	 Invalid token
+----------------------------
+17.6.2023, 18:33:08 	 ER_BAD_NULL_ERROR: Column 'cartStartDate' cannot be null
+----------------------------
+17.6.2023, 18:33:37 	 ER_BAD_NULL_ERROR: Column 'cartStartDate' cannot be null
+----------------------------
+17.6.2023, 18:33:45 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 18:39:42 	 ER_BAD_NULL_ERROR: Column 'cartStartDate' cannot be null
+----------------------------
+17.6.2023, 18:41:12 	 ER_BAD_NULL_ERROR: Column 'cartStartDate' cannot be null
+----------------------------
+17.6.2023, 18:42:29 	 ER_BAD_NULL_ERROR: Column 'cartStartDate' cannot be null
+----------------------------
+17.6.2023, 18:43:27 	 ER_BAD_NULL_ERROR: Column 'cartStartDate' cannot be null
+----------------------------
+17.6.2023, 18:44:11 	 ER_BAD_NULL_ERROR: Column 'cartStartDate' cannot be null
+----------------------------
+17.6.2023, 22:16:43 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:16:43 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:16:43 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:16:43 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:16:43 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:16:43 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:16:43 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:16:43 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:16:43 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:16:43 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:16:43 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:16:43 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:16:43 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:16:43 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:16:43 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:16:43 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:16:43 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:03 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:03 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:03 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:03 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:03 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:03 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:03 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:03 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:03 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:03 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:03 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:03 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:03 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:03 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:03 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:03 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:03 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:07 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:07 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:07 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:07 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:07 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:07 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:07 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:07 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:07 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:07 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:07 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:07 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:07 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:07 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:07 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:07 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:07 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:23 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:23 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:23 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:23 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:23 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:23 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:23 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:23 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:23 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:23 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:23 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:23 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:23 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:23 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:23 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:23 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:23 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:31 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:31 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:31 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:31 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:31 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:31 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:31 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:31 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:31 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:31 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:31 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:31 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:31 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:31 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:31 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:31 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:31 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:53 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:53 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:53 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:53 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:53 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:53 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:53 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:53 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:53 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:53 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:53 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:53 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:53 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:53 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:53 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:53 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:53 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:54 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:54 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:54 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:54 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:54 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:54 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:54 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:54 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:54 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:54 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:54 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:54 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:54 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:54 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:54 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:54 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:17:54 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+17.6.2023, 22:33:38 	 there is some problem with removing product
+----------------------------
+17.6.2023, 22:34:41 	 there is some problem with removing product
+----------------------------
+17.6.2023, 22:34:44 	 there is some problem with removing product
+----------------------------
+18.6.2023, 11:07:37 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`shoppingcart`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`roleId`) REFERENCES `roles` (`roleId`))
+----------------------------
+18.6.2023, 11:08:24 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`shoppingcart`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`roleId`) REFERENCES `roles` (`roleId`))
+----------------------------
+18.6.2023, 11:09:55 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`shoppingcart`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`roleId`) REFERENCES `roles` (`roleId`))
+----------------------------
+18.6.2023, 11:10:29 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`shoppingcart`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`roleId`) REFERENCES `roles` (`roleId`))
+----------------------------
+18.6.2023, 11:12:21 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+18.6.2023, 11:51:49 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:52:08 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:54:02 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:54:05 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:54:10 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:54:58 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:55:01 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:55:03 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:56:08 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:56:10 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:56:20 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:56:22 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:56:52 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:57:11 	 ER_BAD_NULL_ERROR: Column 'userId' cannot be null
+----------------------------
+18.6.2023, 11:57:11 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:57:15 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:57:15 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:57:15 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:57:15 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:57:15 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:57:15 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:57:15 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:57:15 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:57:15 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:57:15 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:57:15 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:57:15 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:57:15 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:57:15 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:57:15 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:57:15 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:57:15 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:57:58 	 ER_BAD_NULL_ERROR: Column 'userId' cannot be null
+----------------------------
+18.6.2023, 11:59:11 	 ER_BAD_NULL_ERROR: Column 'userId' cannot be null
+----------------------------
+18.6.2023, 11:59:11 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:59:12 	 ER_BAD_NULL_ERROR: Column 'userId' cannot be null
+----------------------------
+18.6.2023, 11:59:12 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:59:13 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:59:13 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:59:13 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:59:13 	 ER_BAD_NULL_ERROR: Column 'userId' cannot be null
+----------------------------
+18.6.2023, 11:59:13 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:59:13 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:59:13 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:59:13 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:59:13 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:59:13 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:59:13 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:59:13 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:59:13 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:59:13 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:59:13 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:59:13 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:59:13 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:59:13 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:59:13 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 11:59:19 	 ER_BAD_NULL_ERROR: Column 'userId' cannot be null
+----------------------------
+18.6.2023, 12:02:08 	 ER_BAD_NULL_ERROR: Column 'userId' cannot be null
+----------------------------
+18.6.2023, 12:02:08 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:02:17 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:02:17 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:02:17 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:02:17 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:02:17 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:02:17 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:02:17 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:02:17 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:02:17 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:02:17 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:02:17 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:02:17 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:02:17 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:02:17 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:02:17 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:02:17 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:02:17 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:06:26 	 ER_BAD_NULL_ERROR: Column 'userId' cannot be null
+----------------------------
+18.6.2023, 12:06:26 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:06:28 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:06:28 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:06:28 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:06:28 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:06:28 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:06:28 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:06:28 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:06:28 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:06:28 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:06:28 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:06:28 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:06:28 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:06:28 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:06:28 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:06:28 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:06:28 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:06:28 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:07:27 	 ER_BAD_NULL_ERROR: Column 'userId' cannot be null
+----------------------------
+18.6.2023, 12:07:27 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:07:29 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:07:29 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:07:29 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:07:29 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:07:29 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:07:29 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:07:29 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:07:29 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:07:29 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:07:29 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:07:29 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:07:29 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:07:29 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:07:29 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:07:29 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:07:29 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:07:29 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:08:33 	 ER_BAD_NULL_ERROR: Column 'userId' cannot be null
+----------------------------
+18.6.2023, 12:15:40 	 ER_BAD_NULL_ERROR: Column 'userId' cannot be null
+----------------------------
+18.6.2023, 12:15:40 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:17:03 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:17:03 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:17:03 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:17:03 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:17:03 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:17:04 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:17:04 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:17:04 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:17:04 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:17:04 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:17:04 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:17:04 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:17:04 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:17:04 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:17:04 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:17:04 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:17:04 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:18:48 	 ER_BAD_NULL_ERROR: Column 'userId' cannot be null
+----------------------------
+18.6.2023, 12:20:49 	 ER_BAD_NULL_ERROR: Column 'userId' cannot be null
+----------------------------
+18.6.2023, 12:24:05 	 ER_BAD_NULL_ERROR: Column 'userId' cannot be null
+----------------------------
+18.6.2023, 12:24:05 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:24:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:24:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:24:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:24:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:24:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:24:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:24:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:24:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:24:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:24:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:24:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:24:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:24:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:24:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:24:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:24:15 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:24:15 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:25:44 	 ER_BAD_NULL_ERROR: Column 'userId' cannot be null
+----------------------------
+18.6.2023, 12:25:44 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:25:48 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:25:48 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:25:48 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:25:48 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:25:48 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:25:48 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:25:48 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:25:48 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:25:48 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:25:48 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:25:48 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:25:48 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:25:48 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:25:48 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:25:48 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:25:48 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:25:48 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:26:17 	 ER_BAD_NULL_ERROR: Column 'userId' cannot be null
+----------------------------
+18.6.2023, 12:26:17 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:26:22 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:26:22 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:26:22 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:26:22 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:26:22 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:26:22 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:26:22 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:26:22 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:26:22 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:26:22 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:26:22 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:26:22 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:26:22 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:26:22 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:26:22 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:26:22 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:26:22 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:33:49 	 Cannot convert undefined or null to object
+----------------------------
+18.6.2023, 12:34:06 	 Cannot convert undefined or null to object
+----------------------------
+18.6.2023, 12:34:38 	 Cannot convert undefined or null to object
+----------------------------
+18.6.2023, 12:39:17 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:40:05 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:41:10 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:43:14 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:47:30 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:51:31 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 12:58:55 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 13:09:05 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.6.2023, 13:22:42 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+19.6.2023, 8:34:20 	 Invalid token
+----------------------------
+19.6.2023, 8:34:35 	 Invalid token
+----------------------------
+19.6.2023, 8:34:35 	 Invalid token
+----------------------------
+19.6.2023, 8:41:15 	 "productName" must be a string
+----------------------------
+19.6.2023, 14:16:01 	 "productName" must be a string
+----------------------------
+19.6.2023, 14:17:28 	 "productName" must be a string
+----------------------------
+19.6.2023, 14:18:57 	 "productName" must be a string
+----------------------------
+19.6.2023, 15:44:52 	 "productName" must be a string
+----------------------------
+19.6.2023, 15:45:28 	 "productName" must be a string
+----------------------------
+19.6.2023, 16:17:18 	 Incorrect username or password
+----------------------------
+19.6.2023, 17:27:15 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+19.6.2023, 17:28:31 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+19.6.2023, 17:37:26 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+19.6.2023, 17:39:59 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+19.6.2023, 17:40:05 	 Invalid token
+----------------------------
+19.6.2023, 17:40:05 	 Invalid token
+----------------------------
+19.6.2023, 17:40:50 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+19.6.2023, 17:42:58 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`shoppingcart`.`orders`, CONSTRAINT `orders_ibfk_1` FOREIGN KEY (`cartId`) REFERENCES `carts` (`cartId`) ON DELETE CASCADE ON UPDATE CASCADE)
+----------------------------
+19.6.2023, 17:45:46 	 "deliveryDate" must be greater than or equal to "ref:orderDate"
+----------------------------
+19.6.2023, 17:48:50 	 "deliveryDate" must be greater than or equal to "ref:orderDate"
+----------------------------
+19.6.2023, 17:49:21 	 "deliveryDate" must be greater than or equal to "ref:orderDate"
+----------------------------
+19.6.2023, 17:55:29 	 "deliveryDate" must be greater than or equal to "ref:orderDate"
+----------------------------
+19.6.2023, 17:56:43 	 "deliveryDate" must be greater than or equal to "ref:orderDate"
+----------------------------
+19.6.2023, 18:01:12 	 "deliveryDate" must be greater than or equal to "ref:orderDate"
+----------------------------
+19.6.2023, 18:03:10 	 "deliveryDate" must be greater than or equal to "ref:orderDate"
+----------------------------
+19.6.2023, 18:03:43 	 "deliveryDate" must be greater than or equal to "ref:orderDate"
+----------------------------
+19.6.2023, 18:08:40 	 "deliveryDate" must be greater than or equal to "ref:orderDate"
+----------------------------
+19.6.2023, 18:24:52 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------

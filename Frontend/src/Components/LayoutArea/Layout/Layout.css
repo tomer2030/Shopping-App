@@ -1,0 +1,9 @@
+.Layout {
+	/* background-image: url(../../../Assets/Images/supermarket.jpg); */
+    background-color:antiquewhite;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}

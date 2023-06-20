@@ -1,0 +1,69 @@
+.AllProducts {
+	margin: 10px;
+    border: 1px solid transparent;
+    background-color: antiquewhite;
+}
+
+/* .CartCollapse {
+    margin-top: -150px;
+    display: inline-block;
+    position: absolute;
+    padding: 5px;
+    border: 2px solid gold;
+    position: relative;
+
+} */
+
+.CartCollapse {
+    position: absolute;
+    background-color: white;
+    max-height: 100%;
+    font-size: medium;
+    margin-left: 15px;
+    padding: 5px;
+    border: 5px solid black;
+    border-radius: 10%;
+    padding-bottom: 15px;
+
+}
+
+.CartCollapse thead {
+    font-size: large;
+}
+
+.CartCollapse td {
+    padding-right: 10px;
+}
+
+.CartCollapse button, .CartCollapse button:active {
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: 2px;
+    margin: 5px;
+    box-sizing: border-box;
+    font-size: large;
+
+
+}
+
+.CartCollapse button:active {
+    border: 1px solid black;
+    border-radius: 20px;
+
+}
+
+.CartButton {
+    position: absolute;
+    margin-left: -49%;
+    background-color: transparent;
+    border: 0px;
+    font-size: 40px;
+}
+
+.AddButtonAdmin {
+    position: absolute;
+    margin-left: -49%;
+    background-color: transparent;
+    border: 0px;
+    font-size: 40px;
+}

@@ -1,0 +1,80 @@
+.Home {
+	background-image: url(../../../Assets/Images/supermarket.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.Home > h1 {
+    position: absolute;
+    background-color: rgb(171, 251, 251);
+    padding: 20px;
+    width: 70%;
+    box-shadow: 2px 2px 6px;
+    border-radius: 100px;
+    margin-left: 50%;
+    transform: translate(-50%);
+
+}
+
+.Home > .helloMessage {
+    position: relative;
+    width: 250px;
+    background-color: rgb(171, 251, 251);
+    padding: 20px;
+    box-shadow: 2px 2px 6px;
+    border-radius: 25px;
+    margin-left: 25%;
+    transform: translate(-50%);
+    margin-top: 15%;
+}
+
+.Home > .AdminDiv {
+    width: 250px;
+    background-color: rgb(171, 251, 251);
+    padding: 20px;
+    padding-top: 1px;
+    box-shadow: 2px 2px 6px;
+    border-radius: 25px;
+    margin-left: 50%;
+    transform: translate(-50%);
+    margin-top: 15%;
+}
+
+.Home > .shoppingAction {
+    position: relative;
+    background-color: rgb(171, 251, 251);
+    width: 250px;
+    padding: 20px;
+    box-shadow: 2px 2px 6px;
+    border-radius: 25px;
+    margin-left: 25%;
+    transform: translate(-50%);
+    margin-top: 20px;
+}
+
+.Home > .countOfOrders {
+    position: absolute;
+    background-color: rgb(171, 251, 251);
+    width: 250px;
+    height: 165px;
+    padding: 20px;
+    box-shadow: 2px 2px 6px;
+    border-radius: 25px;
+    margin-left: 75%;
+    transform: translate(-50%);
+    margin-top: -196px;
+    font-size: 25px;
+    padding-top: 11px;
+    font-weight: bold;
+}
+
+.countOfOrders > span > span {
+    font-size: 40px;
+}
+
+.countOfOrders > span:last-child {
+    font-size: 18px;
+}
